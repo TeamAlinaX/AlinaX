@@ -31,7 +31,7 @@
 > ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
 
 ### https://daisyproject.studio
-## Avaiilable a latest version as  [AlinaXBot](https://t.me/daisyxbot) on Telegram [CLOSED SOURCE]
+## Avaiilable a latest version as  [AlinaXBot](https://t.me/AlinaXRoBot) on Telegram [CLOSED SOURCE]
 
 # 🧙‍♀️ Deploy Guide
 Complete guide on deploying @AlinaXRoBot's clone on Heroku.
