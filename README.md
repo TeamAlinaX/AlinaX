@@ -8,7 +8,7 @@
 ### ⚠️ PLEASE NOTE EVERYONE MODIFY, DEPLOY OR FORK THIS SOURCE CODE
 #### This source code is unmaintained. We recommend you not to use this source code. Why Don't Use 👇
 - Not maintained
-- Older version of AlinaX [NEW ONE CLOSED SOURCE]
+- Older version of AlinaXBot [NEW ONE CLOSED SOURCE]
 - Not compatible with latest updates of requirements
 
 
@@ -18,7 +18,7 @@
   <a href="https://github.com/TeamAlinaX/AlinaX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/DaisySupport_Official"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/AlinaXSupport"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://app.codacy.com/manual/TeamAlinaX/AlinaX/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/TeamAlinaX/AlinaX"> <img src="https://img.shields.io/github/repo-size/TeamAlinaX/AlinaX?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -128,7 +128,7 @@ Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport
 
 ## Devs & Contributors
 
-#### • LUCIFER_MORNINGSTAR    »»  <a href="https://github.com/lucifeermorningstar" alt="lucifeermorningstar"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (OWNER)
+#### • Dev-v2    »»  <a href="https://github.com/New-Dev3" alt="New-Dev3"> <img src="https://img.shields.io/badge/Dev-v2-90302f?logo=github" /></a> (OWNER)
 #### • INUKA ASITH    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/InukaAsith-107D8D?logo=github" /></a> (DEV)
 #### • ROSELOVERX  »»  <a href="https://github.com/Amarnathcdj" alt="RoseLoverX"> <img src="https://img.shields.io/badge/RoseLoverX-82CAFA?logo=github" /></a> (DEV)
 #### • INFOTECHBRO  »»  <a href="https://github.com/infotechbro" alt="infotechbro"> <img src="https://img.shields.io/badge/infotechbro-82CAFA?logo=github" /></a> (DEV)
@@ -138,6 +138,7 @@ Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport
 #### • Annihilatorrrr   »»  <a href="https://github.com/annihilatorrrr" alt="annihilatorrrr"> <img src="https://img.shields.io/badge/annihilatorrrr-E9E1E9?logo=github" /></a>
 #### • LEGENDX     »»  <a href="https://github.com/legendXOp" alt="LegendXOp"> <img src="https://img.shields.io/badge/LegendX-92CALA?logo=github" /></a> (DEV)
 #### • Dev-v2    »»  <a href="https://github.com/New-Dev3" alt="New-Dev3"> <img src="https://img.shields.io/badge/Dev-v2-92CALA?logo=github" /></a> (DEV) 
+#### • LUCIFER_MORNINGSTAR    »»  <a href="https://github.com/lucifeermorningstar" alt="lucifeermorningstar"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (OWNER)
 
 
 ## All who helped at a glance 
